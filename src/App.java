@@ -10,7 +10,7 @@ public class App {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner lector = new Scanner(System.in);
-        System.out.println(" Hola Java !!!!");
+        System.out.println(" Hola Java !!");
         String codigo;
         System.out.print("Ingrese el código:");
         codigo = lector.nextLine();
